@@ -86,7 +86,7 @@ A seguir, serão apresentados registros visuais das principais áreas da ferrame
 O desenvolvimento deste projeto permitiu aplicar conhecimentos de Excel em uma situação prática, explorando recursos de organização de dados, fórmulas, validação de informações e automação com VBA.
 Também foi possível compreender a importância de desenvolver ferramentas com uma interface organizada e de fácil utilização, facilitando o acesso às informações e reduzindo dificuldades durante o preenchimento.
 
-## 8. Considerações finais
+## 8. Considerações finais:
 O Organizador de Declaração de Imposto de Renda foi desenvolvido com o propósito de facilitar a organização das informações financeiras e pessoais utilizadas na preparação da declaração.
 A ferramenta funciona como um apoio ao controle de informações, não substituindo o preenchimento e a transmissão da declaração oficial à Receita Federal.
 

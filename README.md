@@ -1,5 +1,3 @@
-# organizador-de-declara-o-de-imposto-de-renda
-Declaração de imposto de Renda: controle e organização das declarações dos contribuintes
 # Organizador de Declaração de Imposto de Renda
 
 ## 1. Sobre o projeto

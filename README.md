@@ -74,13 +74,13 @@ Durante o desenvolvimento, foram aplicados diferentes recursos do Excel:
 A seguir, serão apresentados registros visuais das principais áreas da ferramenta.
 
 ### Cadastro do titular
-![Cadastro do titular](imagens/titular.png)
+![Cadastro do titular](images/titular.png)
 
 ### Informes de rendimentos bancários
-![Informações bancárias](imagens/informe.png)
+![Informações bancárias](images/informe.png)
 
 ### Registro de entradas financeiras
-![Registro de receitas](imagens/notas.png)
+![Registro de receitas](images/notas.png)
 
 ## 7. Aprendizados adquiridos
 O desenvolvimento deste projeto permitiu aplicar conhecimentos de Excel em uma situação prática, explorando recursos de organização de dados, fórmulas, validação de informações e automação com VBA.
